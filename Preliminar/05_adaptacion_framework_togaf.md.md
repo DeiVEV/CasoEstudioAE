@@ -8,15 +8,35 @@ Adaptar TOGAF al contexto específico de la organización.
 
 Lista de términos utilizados dentro del proyecto.
 
-  Término   Definición
-  --------- ------------
-            
+<table>
+<thead>
+<tr>
+<th>Término</th>
+<th>Definición</th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td></td></tr>
+<tr><td></td><td></td></tr>
+<tr><td></td><td></td></tr>
+</tbody>
+</table>
 
 ## Adaptaciones del Proceso
 
-  Elemento ADM   Adaptación
-  -------------- ------------
-                 
+<table>
+<thead>
+<tr>
+<th>Elemento ADM</th>
+<th>Adaptación</th>
+</tr>
+</thead>
+<tbody>
+<tr><td></td><td></td></tr>
+<tr><td></td><td></td></tr>
+<tr><td></td><td></td></tr>
+</tbody>
+</table>
 
 ## Contenido Arquitectónico
 
