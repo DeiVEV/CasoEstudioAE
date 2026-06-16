@@ -52,7 +52,8 @@ A continuación se identifican los componentes tecnológicos necesarios para sop
 # **2. Diagrama Tecnológico**
 El siguiente diagrama representa la infraestructura tecnológica general de PTIS, organizada en capas. Incluye los usuarios (turistas y prestadores), el tránsito por Internet, los componentes de seguridad (CDN y firewall web), el balanceador de carga, la capa de aplicación (contenedores que ejecutan el frontend, el backend, el motor de IA y el chatbot), la capa de datos (base de datos relacional, caché y almacenamiento de objetos) y las integraciones externas (pasarela de pagos, mapas y notificaciones).
 
-![alt text](<Figura 1 - AE.png>)
+<img width="882" height="806" alt="Figura 1 - AE" src="https://github.com/user-attachments/assets/778d1664-f336-4018-a240-be28d40d626b" />
+
 
 *Figura 1. Diagrama Tecnológico de PTIS*
 ## **2.1. Descripción del Flujo**
@@ -67,7 +68,8 @@ El siguiente diagrama representa la infraestructura tecnológica general de PTIS
 # **3. Diagrama de Despliegue**
 El diagrama de despliegue detalla cómo se distribuyen las aplicaciones dentro de la infraestructura tecnológica de AWS, mostrando los servidores/nodos, los contenedores que alojan cada aplicación, las bases de datos, los servicios externos y las relaciones de comunicación (protocolos) entre ellos.
 
-![1781571406872](image/TallerFinalAE/1781571406872.png)
+<img width="930" height="762" alt="Figura 2 - AE" src="https://github.com/user-attachments/assets/9cc9400b-b36d-4dc9-86fe-5a9ff1c74da3" />
+
 
 *Figura 2. Diagrama de Despliegue de PTIS*
 ## **3.1. Componentes y Relaciones de Comunicación**
